@@ -48,7 +48,7 @@ I then searched the Audit logs using:
 ```bash
 sudo ausearch -ts recent -i
 ```
-<img width="1418" height="979" alt="file permission and modifiction" src="https://github.com/user-attachments/assets/8f805011-71d8-42b9-8474-1f25b32aa4f0" />
+<img width="1418" height="945" alt="file permission and modifiction" src="https://github.com/user-attachments/assets/42cbab86-9ef4-45be-80cc-58cc12d3c211" />
 
 
 # Discovery
